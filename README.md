@@ -239,6 +239,16 @@ int main()
 }
 ```
 
+# Output:
+
+a.<br>![image](https://github.com/user-attachments/assets/d8bbaba5-1dd6-4882-8bdd-7ec223c37739)<br>
+b.<br>![image](https://github.com/user-attachments/assets/ea824748-678f-4288-a1b7-88c6b4ba4986)<br>
+c.<br>![image](https://github.com/user-attachments/assets/91441923-68d3-46a9-b440-0011fb05ac1f)<br>
+d.<br>![image](https://github.com/user-attachments/assets/71361983-c8f4-4306-b2f3-ca591f200da0)<br>
+e.<br>![image](https://github.com/user-attachments/assets/ac0a1c76-2239-4ea3-9057-6614841e01be)<br>
+
+
+
 # Conclusion:
 
 → We learnt the use case of 2D arrays in C++.
